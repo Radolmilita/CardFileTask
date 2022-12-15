@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5u3DbRSwMvJxsa/zoRzVDPiImIIIm27sJbEuOBvhmM+TG5el4LlpDcqz2cnPlVYD+15LpJzNv+QnI2rbK5pJWg==",
+  "dgSpecHash": "zm6onkm9H7SMQd30/50idCB/ZfEJSWSZGy1fx3+jeRQJuz9j9sJxQBUao6O3leJZJv6yMSTRJXRVW/IOIzgXHQ==",
   "success": true,
-  "projectFilePath": "/Users/radolmilita/Projects/CardFileOfTextMaterials/Test/Test.csproj",
+  "projectFilePath": "/Users/radolmilita/Desktop/SELFED/CardFileTask/Test/Test.csproj",
   "expectedPackageFiles": [
     "/Users/radolmilita/.nuget/packages/coverlet.collector/3.1.2/coverlet.collector.3.1.2.nupkg.sha512",
     "/Users/radolmilita/.nuget/packages/microsoft.codecoverage/17.1.0/microsoft.codecoverage.17.1.0.nupkg.sha512",

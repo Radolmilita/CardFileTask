@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/radolmilita/Projects/CardFileOfTextMaterials/DAL/DAL.csproj",
+      "projectUniqueName": "/Users/radolmilita/Desktop/SELFED/CardFileTask/DAL/DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "/Users/radolmilita/Projects/CardFileOfTextMaterials/DAL/DAL.csproj",
+      "projectPath": "/Users/radolmilita/Desktop/SELFED/CardFileTask/DAL/DAL.csproj",
       "packagesPath": "/Users/radolmilita/.nuget/packages/",
-      "outputPath": "/Users/radolmilita/Projects/CardFileOfTextMaterials/DAL/obj/",
+      "outputPath": "/Users/radolmilita/Desktop/SELFED/CardFileTask/DAL/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/radolmilita/.nuget/NuGet/NuGet.Config"

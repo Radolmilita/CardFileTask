@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/radolmilita/Projects/CardFileOfTextMaterials/BLL/BLL.csproj": {}
+    "/Users/radolmilita/Desktop/SELFED/CardFileTask/BLL/BLL.csproj": {}
   },
   "projects": {
-    "/Users/radolmilita/Projects/CardFileOfTextMaterials/BLL/BLL.csproj": {
+    "/Users/radolmilita/Desktop/SELFED/CardFileTask/BLL/BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/radolmilita/Projects/CardFileOfTextMaterials/BLL/BLL.csproj",
+        "projectUniqueName": "/Users/radolmilita/Desktop/SELFED/CardFileTask/BLL/BLL.csproj",
         "projectName": "BLL",
-        "projectPath": "/Users/radolmilita/Projects/CardFileOfTextMaterials/BLL/BLL.csproj",
+        "projectPath": "/Users/radolmilita/Desktop/SELFED/CardFileTask/BLL/BLL.csproj",
         "packagesPath": "/Users/radolmilita/.nuget/packages/",
-        "outputPath": "/Users/radolmilita/Projects/CardFileOfTextMaterials/BLL/obj/",
+        "outputPath": "/Users/radolmilita/Desktop/SELFED/CardFileTask/BLL/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/radolmilita/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/radolmilita/Projects/CardFileOfTextMaterials/DAL/DAL.csproj": {
-                "projectPath": "/Users/radolmilita/Projects/CardFileOfTextMaterials/DAL/DAL.csproj"
+              "/Users/radolmilita/Desktop/SELFED/CardFileTask/DAL/DAL.csproj": {
+                "projectPath": "/Users/radolmilita/Desktop/SELFED/CardFileTask/DAL/DAL.csproj"
               }
             }
           }
@@ -61,14 +61,14 @@
         }
       }
     },
-    "/Users/radolmilita/Projects/CardFileOfTextMaterials/DAL/DAL.csproj": {
+    "/Users/radolmilita/Desktop/SELFED/CardFileTask/DAL/DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/radolmilita/Projects/CardFileOfTextMaterials/DAL/DAL.csproj",
+        "projectUniqueName": "/Users/radolmilita/Desktop/SELFED/CardFileTask/DAL/DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "/Users/radolmilita/Projects/CardFileOfTextMaterials/DAL/DAL.csproj",
+        "projectPath": "/Users/radolmilita/Desktop/SELFED/CardFileTask/DAL/DAL.csproj",
         "packagesPath": "/Users/radolmilita/.nuget/packages/",
-        "outputPath": "/Users/radolmilita/Projects/CardFileOfTextMaterials/DAL/obj/",
+        "outputPath": "/Users/radolmilita/Desktop/SELFED/CardFileTask/DAL/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/radolmilita/.nuget/NuGet/NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/radolmilita/Projects/CardFileOfTextMaterials/Test/Test.csproj": {}
+    "/Users/radolmilita/Desktop/SELFED/CardFileTask/Test/Test.csproj": {}
   },
   "projects": {
-    "/Users/radolmilita/Projects/CardFileOfTextMaterials/Test/Test.csproj": {
+    "/Users/radolmilita/Desktop/SELFED/CardFileTask/Test/Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/radolmilita/Projects/CardFileOfTextMaterials/Test/Test.csproj",
+        "projectUniqueName": "/Users/radolmilita/Desktop/SELFED/CardFileTask/Test/Test.csproj",
         "projectName": "Test",
-        "projectPath": "/Users/radolmilita/Projects/CardFileOfTextMaterials/Test/Test.csproj",
+        "projectPath": "/Users/radolmilita/Desktop/SELFED/CardFileTask/Test/Test.csproj",
         "packagesPath": "/Users/radolmilita/.nuget/packages/",
-        "outputPath": "/Users/radolmilita/Projects/CardFileOfTextMaterials/Test/obj/",
+        "outputPath": "/Users/radolmilita/Desktop/SELFED/CardFileTask/Test/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/radolmilita/.nuget/NuGet/NuGet.Config"
